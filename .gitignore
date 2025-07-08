@@ -1,3 +1,14 @@
-.azure
-src/bin
-src/obj
+# Build results
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code + VS folders
+.vscode/
+.vs/
+
+# Publish artifacts
+publish/
